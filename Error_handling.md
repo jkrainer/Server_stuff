@@ -37,6 +37,7 @@ errors: No known data errors
 - https://zfsonlinux.org/msg/ZFS-8000-4J/
 - https://serverfault.com/questions/656073/zfs-pool-reports-a-missing-device-but-it-is-not-missing
 - https://bbs.archlinux.org/viewtopic.php?id=216053
+- https://github.com/openzfs/zfs/issues/2192
 
 Try reboot first!
 ** No solution yet **
