@@ -69,7 +69,7 @@ Show Sensor list
 
 List all open Screens
 
-- ´screen -S {XX}`
+- `screen -S {XX}`
 
 Create a new Screen
 
