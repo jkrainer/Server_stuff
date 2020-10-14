@@ -1,6 +1,6 @@
 # Errors
 
-## Disk UNAVAIL
+## Zpool Disk UNAVAIL
 ### Problem
 After reboot, one Disk is UNAVAIL with a missing or invalid label.
 ```
@@ -42,3 +42,4 @@ errors: No known data errors
 Try reboot first!
 ** No solution yet **
 
+## LXC IPV4 wrong IP address
