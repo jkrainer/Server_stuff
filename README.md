@@ -6,6 +6,10 @@
 
 Show general system information
 
+- `dmidecode -s system-serial-number`
+
+Identify DELL Service Tag
+
 ## DISKs
 
 - `lsscsi -g`
