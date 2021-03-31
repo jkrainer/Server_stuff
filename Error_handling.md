@@ -40,6 +40,11 @@ errors: No known data errors
 - https://github.com/openzfs/zfs/issues/2192
 
 Try reboot first!
-** No solution yet **
+
+After a long while the missing disc was **replaced** and it worked.
+
+Now Server is down due to unknown reasons.
+
 
 ## LXC IPV4 wrong IP address
+Different static IP address worked. Maybe the other one is blocked.
